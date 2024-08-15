@@ -34,7 +34,7 @@ button {
 /* weather-app */
 .weather-app { 
   border-radius: 20px;
-  width: 300px;
+  width: 500px;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -46,6 +46,7 @@ button {
 }
 
 .weather-app__title {
+  letter-spacing: 1.3;
   font-size: 48px;
 }
 
